@@ -1,9 +1,9 @@
 {
     "l10n_client": "web",
-    "l10n_locale": "en",
-    "l10n_name": "English",
-    "l10n_base_locale": "en",
-    "l10n_base_name": "English",
+    "l10n_locale": "tr",
+    "l10n_name": "tr",
+    "l10n_base_locale": "tr",
+    "l10n_base_name": "tr",
     "l10n_version": "2024032801",
     "l10n_author": "Pionex official",
     "pionex_title": "Pionex | Bitcoin Ethereum Auto buy low and sell high  | Free Crypto Trading Bot",
